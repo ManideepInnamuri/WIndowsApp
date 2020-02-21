@@ -1,0 +1,9 @@
+D:\Study\Learning\WindowsDesktopApp\Econtact\Econtact\bin\Debug\Econtact.exe.config
+D:\Study\Learning\WindowsDesktopApp\Econtact\Econtact\bin\Debug\Econtact.exe
+D:\Study\Learning\WindowsDesktopApp\Econtact\Econtact\bin\Debug\Econtact.pdb
+D:\Study\Learning\WindowsDesktopApp\Econtact\Econtact\obj\Debug\Econtact.Econtact.resources
+D:\Study\Learning\WindowsDesktopApp\Econtact\Econtact\obj\Debug\Econtact.Properties.Resources.resources
+D:\Study\Learning\WindowsDesktopApp\Econtact\Econtact\obj\Debug\Econtact.csproj.GenerateResource.cache
+D:\Study\Learning\WindowsDesktopApp\Econtact\Econtact\obj\Debug\Econtact.csproj.CoreCompileInputs.cache
+D:\Study\Learning\WindowsDesktopApp\Econtact\Econtact\obj\Debug\Econtact.exe
+D:\Study\Learning\WindowsDesktopApp\Econtact\Econtact\obj\Debug\Econtact.pdb
